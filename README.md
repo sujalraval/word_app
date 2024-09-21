@@ -19,3 +19,16 @@ The Word App is a simple Flutter application that generates random English words
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/word-app.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd word-app
+   
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   
+## Running the App
+To run the app, use the following command:
+   ```bash
+   flutter run
